@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm Adnan, your friendly neighborhood open-sourcerer at @sematext. 😄
+
 In my past, I founded a startup that failed. I've authored online courses. And, I'm an ex-freeCodeCamp local leader.
 
 JavaScript is my main language. I've been creating full stack JavaScript software for the last five years. In the last few years I started fiddling with DevOps, Serverless, and Bash scripts, but also Product Management and Growth.
