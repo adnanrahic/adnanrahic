@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Adnan, your friendly neighborhood open-sourcerer at [@sematext](https://sematext.com/). 😄
+I'm Adnan, your friendly neighborhood 🥑 at [@CubeDev](https://cube.dev/). 😄
 
 I'm a failed startup founder. I've authored online courses. And, I'm an ex-freeCodeCamp local leader.
 
