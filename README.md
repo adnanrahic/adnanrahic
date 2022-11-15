@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Adnan, your friendly neighborhood 🥑 at [@CubeDev](https://cube.dev/). 😄
+I'm Adnan, your friendly neighborhood 🥑 at [@Kubeshop.io](https://kubeshop.io/). 😄
 
 I'm a failed startup founder. I've authored online courses. And, I'm an ex-freeCodeCamp local leader.
 
